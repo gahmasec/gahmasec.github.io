@@ -1,6 +1,5 @@
 ---
 title: How to Full Install Docker Ubuntu
-author: Guilherme Vieira
 date: 2023-04-25 
 categories: [Docker]
 tags: [docker, portainer]
