@@ -1,11 +1,13 @@
 ---
+layout: post
 title: How to Full Install Docker Ubuntu
 date: 2023-04-25 
 categories: [Docker]
-tags: [docker, portainer]
+tags: [docker, containerization]
+image:
+  path: /assets/img/headers/docker.png
 ---
 
-## Little Explanation
 
 In short, we can conclude that Docker is an open platform, developed with the aim of facilitating the development, deployment and execution of applications in isolated environments. It was specifically designed to deliver an application as quickly as possible. Using Docker, we can easily manage the application infrastructure, thus streamlining the process of construction, maintaining and modifying your service. Docker enabled a common "language" between developers and server administrators. This new "language" is used to build files with the definitions of the necessary infrastructure and how the application will be placed in that environment, on which port it will provide its service, which data from external volumes will be requested and other possible needs. Docker also provides a public cloud for sharing ready-made environments, which can be used to enable customizations for specific environments. Docker uses the container model to "package" the application which, after being transformed into a Docker image, can be reproduced on any platform; that is, if the application works flawlessly on your desktop, it will also work on the server or mainframe. Build once, run anywhere. Containers are isolated at the disk, memory, processing and network levels. This separation allows for great flexibility, where different environments can coexist on the same host, without causing any problems. It is worth noting that the overhead in this process is the minimum necessary, as each container normally carries only one process, which is responsible for delivering the desired service.
 

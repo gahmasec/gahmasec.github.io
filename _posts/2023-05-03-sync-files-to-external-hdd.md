@@ -1,8 +1,11 @@
 ---
+layout: post
 title: Sync files to external HDD
 date: 2023-05-03
 categories: [Ubuntu]
 tags: [synchronization, backup]
+image:
+  path: /assets/img/headers/external-hdd.png
 ---
 
 ## Little Explanation
