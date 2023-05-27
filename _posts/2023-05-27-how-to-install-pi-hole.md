@@ -68,7 +68,7 @@ services:
 ```console
 nano /etc/lighttpd/lighttpd.conf
 ```
-```text
+```code
  server.modules = (
         "mod_indexfile",
         "mod_access",
@@ -129,7 +129,7 @@ server.modules += (
 ```console
 nano /etc/pihole/setupVars.conf
 ```
-```text
+```code
 PIHOLE_INTERFACE=eth0
 QUERY_LOGGING=true
 INSTALL_WEB_SERVER=true
