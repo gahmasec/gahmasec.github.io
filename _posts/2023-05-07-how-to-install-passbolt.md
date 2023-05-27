@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Install Passbolt (Docker)
+title: How to Install Passbolt
 date: 2023-05-07 
 categories: [Docker]
 tags: [docker, containerization, security]
