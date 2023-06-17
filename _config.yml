@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   Portal for my homelab documentation
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://gahmasec.live"
+url: "https://gahmasec.site"
 
 github:
   username: gahmasec # change to your github username
